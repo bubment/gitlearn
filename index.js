@@ -4,4 +4,4 @@ const app = express();
 
 app.use(express.static('frontend/dist'));
 
-app.listen(3000);
+app.listen(4000);
